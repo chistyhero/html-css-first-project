@@ -1,0 +1,82 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Xanh Mono', monospace;
+}
+#firstimage{
+    width: 25%;
+}
+#lutfarorange{
+    color: chocolate;
+}
+.firstsection{
+    height: 500px;
+
+}
+.firstsectiondiv{
+    width: 33%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 7%;
+
+}
+h1{
+    font-size:60px;
+}
+#firstbutton{
+    color: white;
+    text-decoration: none;
+    padding: 13px 30px;
+    background-image: linear-gradient(180deg, orange,red);
+    border-radius: 10px;
+    font-weight: 700;
+
+}
+#secondimage{
+    width: 80%;
+}
+#secondbutton{
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(180deg, red, orange);
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+#htwostyle{
+    text-align: center;
+    font-size: 40px;
+}
+#latestcolor{
+    color: tomato;
+}
+.projectsection{
+    background-color: rgb(250, 250, 245);
+    height: 700px;
+}
+.project-div-class{
+    width: 24%;
+    float: left;
+    margin-left:5%;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 6%;
+    padding-right: 1%;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 10px 10px 40px grey;
+
+}
+.projectimages{
+    width: 100%;
+    padding-left: 3px;
+    
+}
+h2{
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.blueimagediv{
+    background-image: url(images/Group_33094_1.png);
+    background: fixed;
+}
+sdcdcdcjjjj
