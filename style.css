@@ -100,7 +100,11 @@ h2{
 }
 #h4text{
     padding-top: 10%;
-    padding-left:14px;
-    color: black;
-    font-size: 30px;
+    padding-left:40px;
+    color:WHITE;
+    font-size: 50px;
+    font-weight: 700;
+}
+.lastlast{
+    float: left;
 }
