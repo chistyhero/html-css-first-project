@@ -76,6 +76,7 @@ h2{
     padding-bottom: 40px;
 }
 .blueimagediv{
-    background-image: url(images/Group_33094_1.png);
+    background-image: url("images/Group_33094_1.png");
     background: fixed;
+    height: 400px;
 }
