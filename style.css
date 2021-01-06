@@ -4,7 +4,7 @@ font-family: 'Nunito', sans-serif;
 font-family: 'Xanh Mono', monospace;
 }
 #firstimage{
-    width: 25%;
+    width: 30%;
 }
 #lutfarorange{
     color: chocolate;
@@ -16,7 +16,7 @@ font-family: 'Xanh Mono', monospace;
 .firstsectiondiv{
     width: 33%;
     float: left;
-    margin-left: 5%;
+    margin-left: 7%;
     padding-left: 7%;
 
 }
@@ -75,8 +75,32 @@ h2{
     padding-top: 50px;
     padding-bottom: 40px;
 }
-.blueimagediv{
-    background-image: url("images/Group_33094_1.png");
-    background: fixed;
-    height: 400px;
+.lasththree{
+    color:red;
+}
+.lastlastsection{
+    height: 100%;
+
+}
+.lastlastdiv{
+    
+ background-image: url(images/Group_33094_1.png);
+ height: 200px;
+ width: 800px;
+ background-size: cover;
+ margin-left:17%;
+ 
+}
+.lastlastsection{
+    height: 250px;
+}
+#fotterid{
+    text-align: center;
+    
+}
+#h4text{
+    padding-top: 10%;
+    padding-left:14px;
+    color: black;
+    font-size: 30px;
 }
